@@ -1,0 +1,16 @@
+       Each city December sales
+---------------------------------------------------
+New_York_City sales =646771.0sh
+Dallas sales =380719.0sh
+Seattle sales =387318.0sh
+San_Francisco sales =1106601.0sh
+Boston sales =509599.0sh
+Atlanta sales =360899.0sh
+Austin sales =233777.0sh
+Los_Angeles sales =684045.0sh
+Portland sales =303714.0sh
+********************************
+    ***********************
+        ***************
+
+December sales amounted to 4613443.0sh
