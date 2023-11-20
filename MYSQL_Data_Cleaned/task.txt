@@ -1,0 +1,13 @@
+I was assigned a task to clean vehicles data that was exported from a mysql database in a csv file.
+To do:
+1: I am required to remove all " quotes in the data ,
+2:i am supposed to replace full colons that are separting datafields in lines with a comma (,)
+3:I am supposed to generate a brand column from vehicles name column
+4:I am required to drop some unnecessary columns from the dataset 
+5: The final cleaned data should be saved in an excel file
+
+In this task, i will be using python programming language together with some of its modules 
+.ie, pandas will be the lybrary i'll be using for this task.
+
+I'll be using jupyter notebook, this will help me submit all the working i did to come up with the expected solution. 
+i am required to submit a pdf form of the jupyter notebook file also.
